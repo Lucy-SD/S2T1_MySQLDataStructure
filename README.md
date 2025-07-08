@@ -1,1 +1,1 @@
-# S2T1_DataStructureMySQL
+# S2T1_MySQLDataStructure
