@@ -28,7 +28,7 @@ This repository contains database modeling exercises focused on:
 
     + YouTube-like platform architecture
 
-### 💻 Technologies Used
+## 💻 Technologies Used
 
 🔹 XAMPP (Apache/MySQL/PHP stack)
 
@@ -37,7 +37,7 @@ This repository contains database modeling exercises focused on:
 🔹 Git & GitHub (Version control)
 
 
-### 📋 Requirements
+## 📋 Requirements
 
 ✅ XAMPP installed (Download)
 
@@ -48,7 +48,7 @@ This repository contains database modeling exercises focused on:
 ✅ Basic SQL knowledge
 
 
-### 🛠️ Installation
+## 🛠️ Installation
 
 Clone repository:
 
