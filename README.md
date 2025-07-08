@@ -1,9 +1,13 @@
 # 📚 MySQL Data Structure: Modeling Exercises
 
 **👨‍💻 Author**: Lucy Castro
+
 **🧠 Learning Focus**: Database Design, Entity-Relationship Modeling, MySQL
+
 **🛠️ Tools**: XAMPP, MySQL Workbench
+
 **💾 Database**: MySQL
+
 
 ## 📄 Description
 This repository contains database modeling exercises focused on:
@@ -25,17 +29,27 @@ This repository contains database modeling exercises focused on:
     + YouTube-like platform architecture
 
 ### 💻 Technologies Used
+
 🔹 XAMPP (Apache/MySQL/PHP stack)
+
 🔹 MySQL Workbench (Database modeling)
+
 🔹 Git & GitHub (Version control)
 
+
 ### 📋 Requirements
+
 ✅ XAMPP installed (Download)
+
 ✅ MySQL Workbench (Download)
+
 ✅ Git
+
 ✅ Basic SQL knowledge
 
+
 ### 🛠️ Installation
+
 Clone repository:
 
 bash
