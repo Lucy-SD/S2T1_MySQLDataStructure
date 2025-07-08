@@ -65,6 +65,8 @@ File → Run SQL Script → Select .sql file from exercise folder
 
 <details> <summary><strong>🔍 Level 1: Optical Store</strong></summary>
 
+
+
 An optician, called "Cul d'Ampolla", wants to computerize customer management and eyeglass sales.
 
 First of all, the optician wants to know who the supplier of each pair of glasses is. Specifically, they want to know about each supplier :
@@ -92,6 +94,8 @@ When a new customer arrives, store the customer who recommended the establishmen
 Our system will have to indicate which employee sold each pair of glasses.
 
 </details><details> <summary><strong>🍕 Level 1: Pizzeria System</strong></summary>
+
+
 
 You have been hired to design a website that allows you to order food at home online.
 
@@ -140,6 +144,8 @@ If you work as a cook or delivery person. For home delivery orders, it is import
 
 
 </details><details> <summary><strong>📹 Level 2: YouTube-like Platform</strong></summary>
+
+
 
 We will try to make a simple model of what the database would be like for a scaled-down version of YouTube.
 
@@ -241,4 +247,4 @@ MySQL Workbench 8.0 for schema design and SQL scripting
 
 Physical models exported as .sql files in each exercise folder
 
-## 🚀 Thanks for exploring ¡! 
+## 🚀 Thanks for visiting ¡! 
